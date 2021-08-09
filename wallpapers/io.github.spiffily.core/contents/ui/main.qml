@@ -3,7 +3,7 @@ import QtQuick.Shapes 1.12
 import QtQuick.Window 2.15
 
 Rectangle {
-    id: background
+    id: root
     color: "#1b1b1b"
     anchors.fill: parent
 
