@@ -1,0 +1,15 @@
+ 
+[Desktop Entry]
+Name=Core
+
+Type=Service
+Icon=preferences-desktop-wallpaper
+
+X-KDE-ServiceTypes=Plasma/Wallpaper
+X-KDE-PluginInfo-Author=JoshL
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=io.github.spiffily.core
+X-KDE-PluginInfo-License=GPLv3+
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=
+X-Plasma-MainScript=ui/main.qml
